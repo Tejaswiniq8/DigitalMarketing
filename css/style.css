@@ -25,10 +25,10 @@
     --bg-gradient-peach: linear-gradient(to right, #fff7f3, #fff7f3);
 
     /* images */
-    --bg-cover: url(/assets/bgimg1.png);
-    --bg-image1: url(/assets/img1.png);
-    --bg-image2: url(/assets/img2.png);
-    --bg-image3: url(/assets/img3.png);
+    --bg-cover: url('/assets/bgimg1.png');
+    --bg-image1: url('/assets/img1.png');
+    --bg-image2: url('/assets/img2.png');
+    --bg-image3: url('/assets/img3.png');
 }
 
 *>* {
@@ -267,7 +267,7 @@ ul {
 
 body {
     width: 100%;
-    background: url(/assets/backgroundpng.png) no-repeat;
+    background: url('/assets/backgroundpng.png') no-repeat;
     background-size: cover;
 }
 
